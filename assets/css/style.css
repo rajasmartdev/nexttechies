@@ -390,8 +390,8 @@ input[type=color] {
 -----------------------------------------*/
 .tp-btn {
   display: inline-block;
-  background-color: var(--tp-common-white);
-  color: var(--tp-theme-1);
+  color: var(--tp-common-white);
+  background-color: var(--tp-theme-1);
   height: 55px;
   line-height: 55px;
   text-align: center;
