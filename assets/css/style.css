@@ -2538,7 +2538,7 @@ input[type=color] {
   font-weight: 700;
   font-size: 15px;
   line-height: 19px;
-  color: var(--tp-common-white-2);
+  color: var(--tp-theme-1);
   text-align: center;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -2639,7 +2639,7 @@ input[type=color] {
   padding: 40px 0;
 }
 .tp-header__menu-space {
-  padding-top: 25px;
+  padding: 10px 50px;
 }
 .tp-header__right {
   display: flex;
